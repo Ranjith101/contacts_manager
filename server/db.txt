@@ -1,0 +1,7 @@
+// // https://www.youtube.com/watch?v=RahOigZDoIY
+
+
+// t9852242
+// pHmGQzmI3Dckd2EH
+// nodejs.users
+// mongodb+srv://t9852242:pHmGQzmI3Dckd2EH@cluster0.uw8tplr.mongodb.net/nodejs?retryWrites=true&w=majority
